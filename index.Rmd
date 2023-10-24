@@ -45,3 +45,7 @@ plot_df |>
 The tool is Google. This is Google:
 
 ![](images/google.png)
+
+## Other stuff
+
+Definitely there's [plotly](plotly.html) stuff!

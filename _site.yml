@@ -4,9 +4,11 @@ navbar:
   title: "Home"
   right:
     - text: "About"
-      href: about.html
+      href: about.html # DON'T use capital letters here!
     - text: "Projects"
       href: projects.html
+    - text: "Plotly"
+      href: plotly.html
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg
